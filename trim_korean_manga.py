@@ -4,7 +4,7 @@ import os
 from tqdm import tqdm
 import queue, threading
 
-# remove empty horizontal filling in Korean manga
+# removes empty horizontal filling in Korean manga
 # required: imagemagick, fdupes
 # put the script into the dir with the images 
 
